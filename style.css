@@ -8,6 +8,7 @@ body {
     background: -webkit-linear-gradient(45deg, #F7F7F7 0%, #EAE0D5 100%);
     /* Chrome10-25,Safari5.1-6 */
     background: linear-gradient(45deg, #F7F7F7 0%, #EAE0D5 100%);
+    position: relative;
 }
 
 
@@ -161,5 +162,5 @@ a {
     margin-right: 10px;
     margin-bottom: 100px;
     position: fixed;
-    color: #fff;
+    color: #000;
 }
