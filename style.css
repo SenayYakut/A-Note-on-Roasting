@@ -154,3 +154,10 @@ a {
     text-decoration: none;
     letter-spacing: 2px;
 }
+
+#creator {
+    text-align: right;
+    font-family: "Dancing script", cursive;
+    margin-right: 10px;
+    margin-bottom: 100px;
+}
