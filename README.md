@@ -9,7 +9,7 @@ Create different color values like Hex, RGB, and HSL.
 
 Install the project locally
 ```bash
-
+https://github.com/SenayYakut/A-Note-on-Roasting.git
 ```
 
 ## Usage
