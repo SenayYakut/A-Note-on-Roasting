@@ -155,7 +155,7 @@ a {
     letter-spacing: 2px;
 }
 
-div#creator {
+p#creator {
     float: right;
     font-family: "Dancing script", cursive;
     margin-right: 20px;
